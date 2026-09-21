@@ -1,11 +1,13 @@
 {
-    "short-name": "RutaSegura",
+    "short_name": "RutaSegura",
     "name": "RutaSegura Tunja",
     "description":"Una aplicación de chat progresiva para rutas seguras en Tunja, Colombia. Permite a los usuarios comunicarse de manera segura y eficiente mientras se desplazan por la ciudad.",
     "start_url": "./index.html",
     "background_color": "#3498db",
     "display": "standalone",
     "orientation": "portrait",
+    "theme-color": "#0f4c5c",
+    "purpose": "any maskable",
     "scope": "./",
     "icons": [
         {
